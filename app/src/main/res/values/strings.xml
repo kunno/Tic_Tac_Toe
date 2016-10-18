@@ -3,6 +3,8 @@
     <string name="game_over">Game Over</string>
     <string name="start">Start</string>
     <string name="new_game">New Game</string>
+    <string name="banner_ad_main_game_footer">ca-app-pub-7080727738421282/3958507455</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <color name="black">#FF000000</color>
     <color name="red">#FFFF0000</color>
     <color name="white">#FFFFFFFF</color>
